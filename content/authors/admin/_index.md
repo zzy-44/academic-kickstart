@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ziyao Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate Student of Optical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Zhejiang University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in Optical Engineering
+    institution: Zhejiang University
+  - course: B.S. in Artificial Intelligence
+    institution: Nankai University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
