@@ -22,7 +22,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 project:
-- Microscopic Resrarch of Optothermal Microactuators
+- Microscopic Resrarch of Opto-thermal Microactuators
 - Research on High-speed Microscopic Measurement System
 - Super-resolution Optical Microscopic Imaging Method Based on Annular Illumination
 
