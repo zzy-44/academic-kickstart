@@ -21,10 +21,11 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fa-file-code"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
+  
   
 [[feature]]
   icon = "camera-retro"
