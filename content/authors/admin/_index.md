@@ -30,6 +30,7 @@ education:
   courses:
   - course: M.S. in Optical Engineering
     institution: Zhejiang University
+    year: present
   - course: B.S. in Artificial Intelligence
     institution: Nankai University
     year: 2018
@@ -58,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "21830059@zju.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
