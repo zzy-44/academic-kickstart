@@ -22,7 +22,6 @@
   name = "Featured"
   url = "#featured"
   weight = 40 
-  */
 
 [[main]]
   name = "Contact"
