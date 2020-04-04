@@ -28,7 +28,7 @@ subtitle = ""
   
   
 [[feature]]
-  icon = <i class="fas fa-file-code"></i>
+  icon = "fa-file-code"
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
