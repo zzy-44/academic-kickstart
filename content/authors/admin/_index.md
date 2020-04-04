@@ -21,10 +21,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+project:
+- Microscopic Resrarch of Optothermal Microactuators
+- Research on High-speed Microscopic Measurement System
+- Super-resolution Optical Microscopic Imaging Method Based on Annular Illumination
 
 education:
   courses:
