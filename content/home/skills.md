@@ -28,7 +28,7 @@ subtitle = ""
   
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-book"
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
