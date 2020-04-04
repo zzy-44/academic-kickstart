@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postgraduate Student of 
-Optical Engineering
+role: Postgraduate Student of Optical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 project:
-- Microscopic Resrarch of Opto-thermal Microactuators
+- Microscopic Resrarch of Optothermal Microactuators
 - Research on High-speed Microscopic Measurement System
 - Super-resolution Optical Microscopic Imaging Method Based on Annular Illumination
 
