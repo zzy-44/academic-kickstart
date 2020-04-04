@@ -13,16 +13,18 @@
   url = "#projects"
   weight = 30
 
-//[[main]]
-//  name = "Posts"
-// url = "#posts"
-// weight = 20
+/*
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
 
 
-//[[main]]
-//  name = "Featured"
-//  url = "#featured"
-//  weight = 40
+[[main]]
+  name = "Featured"
+  url = "#featured"
+  weight = 40 
+  */
 
 [[main]]
   name = "Contact"
