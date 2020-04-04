@@ -68,8 +68,5 @@ user_groups:
 - Visitors
 ---
 Ziyao Zhang is a postgradute student of optical engineering at the State Key Laboratory of Modern Optical Instrumentation, College of Optical Science of Zhejiang University. 
-Research projects:
-Microscopic resrarch of optothermal microactuators.
-Research on high-speed microscopic measurement system.
-Super-resolution optical microscopic imaging method based on annular illumination.
+
 
