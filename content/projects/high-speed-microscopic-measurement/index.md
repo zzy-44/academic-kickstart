@@ -3,7 +3,7 @@
 date = 2018-05-07T00:00:00
 
 # Project title.
-title = "R-Ladies East Lansing"
+title = "high-speed microscopic measurement system"
 
 # Project summary to display on homepage.
 summary = "" # News pertaining to *R-Ladies East Lansing*!
