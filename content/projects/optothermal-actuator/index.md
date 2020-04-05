@@ -4,7 +4,8 @@ date = 2015-12-31T00:00:00
 
 # Project title.
 title = "Optothermal Actuator"
-
+# Project summary to display on homepage.
+summary = " # "
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -33,7 +34,7 @@ url_code = ""
 url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/janani137"}]
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
