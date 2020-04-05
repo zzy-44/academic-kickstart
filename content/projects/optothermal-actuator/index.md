@@ -5,8 +5,6 @@ date = 2015-12-31T00:00:00
 # Project title.
 title = "Optothermal Actuator"
 
-# Project summary to display on homepage.
-
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
