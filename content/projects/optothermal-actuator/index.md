@@ -6,7 +6,7 @@ date = 2015-12-31T00:00:00
 title = "Optothermal Actuator"
 
 # Project summary to display on homepage.
-summary = "" # Projects pertaining to lipid metabolism deregulation in TB
+summary = " # Projects pertaining to lipid metabolism deregulation in TB"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
