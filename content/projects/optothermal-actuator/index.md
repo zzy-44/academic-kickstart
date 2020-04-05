@@ -3,14 +3,14 @@
 date = 2015-12-31T00:00:00
 
 # Project title.
-title = "Optothermal Acutators"
+title = "Optothermal Actuator"
 
 # Project summary to display on homepage.
 summary = "" # Projects pertaining to lipid metabolism deregulation in TB
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Optothermal Actuator", "host/pathogen", "compbio-bioinfo"]
+tags = ["lipid-metabolism", "host/pathogen", "compbio-bioinfo"]
 categories = ["Research"]
 
 # Optional external URL for project (replaces project detail page).
@@ -61,4 +61,21 @@ In addition to stress-response systems on the pathogenic side, I studied some ho
 * Lipid Metabolism and TB, *in preparation*.
 * [Cutting edge: Vitamin D regulates lipid metabolism in *Mycobacterium tuberculosis* infection](/publication/2014/jimm)
 
+## Collaborators
+#### Rutgers University
+* Marila Gennaro
+* Sanjay Tyagi
+* Gili Kaufmann (now in ...)
+* Richard Pine
+* Eduardo Sontag (now in NorthEastern)
+* Evgeni 'Zhenya' Nikolaev
+* Valentina Guerrini
+* Natalie Bruiners
 
+#### Tulane University
+* Deepak Kaushal
+* Smriti Mehta
+
+#### Knowledge Synthesis
+* Hugh Salamon
+* Ken Yamaguchi
