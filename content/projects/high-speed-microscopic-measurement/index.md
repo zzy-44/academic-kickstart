@@ -52,6 +52,5 @@ math = false
 
 +++
 
-[R-Ladies East Lansing Posts & Workshops](/tags/rladies)
 
 <img src="/interests/rladies_files/rladies.jpeg" alt="" width="200px" height="200px"/>
