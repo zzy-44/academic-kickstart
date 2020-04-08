@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "*Some ongoing & past projects*"
+subtitle = "*Some ongoing & [past](/dynamical-systems) projects*"
 
 [content]
   # Page type to display. E.g. project.
