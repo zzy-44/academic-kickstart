@@ -7,6 +7,8 @@ title = "Optothermal Actuator"
 # Project summary to display on homepage.
 summary = " # "
 
+ weight = 1
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["lipid-metabolism", "host/pathogen", "compbio-bioinfo"]
