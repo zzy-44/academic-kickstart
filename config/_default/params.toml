@@ -90,7 +90,7 @@ address = {street = "38 Zheda Rd", city = "Hangzhou", region = "Zhejiang", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.2628", longitude = "120.1227"}
+coordinates = {latitude = "30.2651", longitude = "120.1179"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 3 and take the stairs to Office 233 on Floor 2"
