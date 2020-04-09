@@ -8,6 +8,8 @@ title = "high-speed microscopic measurement system"
 # Project summary to display on homepage.
 summary = "" # News pertaining to *R-Ladies East Lansing*!
 
+weight = 2
+
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["rladies", "software-tools", "blogs", "compbio-bioinfo", "R"]
