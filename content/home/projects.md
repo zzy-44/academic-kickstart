@@ -1,9 +1,9 @@
 +++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 8  # Order that this section will appear.
 
 title = "Projects"
 subtitle = "*Some ongoing projects*"
@@ -44,7 +44,7 @@ subtitle = "*Some ongoing projects*"
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = false
 
 [design.background]
   # Apply a background color, gradient, or image.
