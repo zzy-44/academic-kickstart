@@ -28,12 +28,10 @@ project:
 education:
   courses:
   - course: M.S. in Optical Engineering
-    institution: Zhejiang University
-    College of Optical Science and Engineering
+    institution: College of Optical Science and Engineering, Zhejiang University
     year: present
   - course: B.S. in Artificial Intelligence
-    institution: Nankai University
-    School of Physics
+    institution: School of Physics, Nankai University
     year: 2018
 
 # Social/Academic Networking
