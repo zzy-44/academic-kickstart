@@ -27,9 +27,9 @@ project:
 
 education:
   courses:
-  - course: M.S. in Optical Engineering
-    institution: College of Optical Science and Engineering, Zhejiang University
-    year: present
+  - course: M.S. in Optical Engineering (present)
+    institution: State Key Laboratory of Modern Optical Instrumentation,College of Optical Science and Engineering, Zhejiang University
+    year:
   - course: B.S. in Artificial Intelligence
     institution: School of Physics, Nankai University
     year: 2018
