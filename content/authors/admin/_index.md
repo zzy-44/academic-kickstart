@@ -15,7 +15,7 @@ role: Postgraduate Student of Optical Engineering
 # Organizations/Affiliations
 organizations:
 - name: Zhejiang University
-  url: ""
+  url: "http://www.zju.edu.cn/english"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,9 +29,11 @@ education:
   courses:
   - course: M.S. in Optical Engineering
     institution: Zhejiang University
+    College of Optical Science and Engineering
     year: present
   - course: B.S. in Artificial Intelligence
     institution: Nankai University
+    School of Physics
     year: 2018
 
 # Social/Academic Networking
