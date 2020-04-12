@@ -63,9 +63,10 @@ math = false
   <img src="Fig_1.png" alt="" width="400px" height="400px"/>
   <figcaption>
 <h2>Procedure of the time axis fitting software</h2>
+# Summary
 <p style="text-align: justify;">
-    As is known to all, pixel is the smallest unit in the imaging system, by sub-pixel fitting we can break this limit, thus a high-precision testing system whose minimum resolution is 0.1$\mu$m can be established. Procedure of the sub-pixel fitting based analysis software (time axis) is shown as below. Similar to this time axis analysis software, spatial axis analysis software which shows the moving trail of the feature point has been constructed as well. From these two software, microactuators’ deflection, frequency, displacement and velocity can be measured precisely.</p>
-  <img src="Fig_2.png" alt="" width="400px" height="400px"/>
+    As is known to all, pixel is the smallest unit in the imaging system, by sub-pixel fitting we can break this limit, thus a high-precision testing system whose minimum resolution is 0.1&\mu&m can be established. Procedure of the sub-pixel fitting based analysis software (time axis) is shown as below. Similar to this time axis analysis software, spatial axis analysis software which shows the moving trail of the feature point has been constructed as well. From these two software, microactuators’ deflection, frequency, displacement and velocity can be measured precisely.</p>
+  <img src="Fig_2.png" alt="" width="600px" height="600px"/>
   <figcaption>
 <h2>Interface of the time axis fitting software</h2>
 
