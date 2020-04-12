@@ -30,7 +30,7 @@ education:
   - course: M.S. in Optical Engineering (present)
     institution: State Key Laboratory of Modern Optical Instrumentation,College of Optical Science and Engineering, Zhejiang University
     year:
-  - course: B.S. in Artificial Intelligence
+  - course: B.S. in Opto-Electronics Information Science and Engineering
     institution: School of Physics, Nankai University
     year: 2018
 
