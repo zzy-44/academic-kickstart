@@ -58,8 +58,12 @@ math = false
 <img src="/interests/rladies_files/rladies.jpeg" alt="" width="200px" height="200px"/>
 
 # Summary
+<p style="text-align: justify;">
 A system based on high-speed microscopic observation and dynamic measurement technology has been established in this project, microactuators’ motion states and dynamic characteristics can be tested based on this system. High-speed CMOS/CCD (240fps) combined with optical microscope is used in this system to capture the video of actuator’s movement and a sub-pixel motion analysis software is utilized to acquare the characteristics of microactuators such as deflection, amplitude, displacement and so on. This non-contact optical testing method has the advantages of non-destruction, non-contact, high-speed and high-precision.
+  <img src="Fig_1.png" alt="" width="400px" height="400px"/>
+  <figcaption>
+<h4>Procedure of the time axis fitting software</h4>
 As is known to all, pixel is the smallest unit in the imaging system, by sub-pixel fitting we can break this limit, thus a high-precision testing system whose minimum resolution is 0.1$\mu$m can be established. Procedure of the sub-pixel fitting based analysis software (time axis) is shown as below. Similar to this time axis analysis software, spatial axis analysis software which shows the moving trail of the feature point has been constructed as well. From these two software, microactuators’ deflection, frequency, displacement and velocity can be measured precisely.
 
-<img src="Fig_1.png" alt="" width="200px" height="200px"/>
-align = "center"
+
+</p>
