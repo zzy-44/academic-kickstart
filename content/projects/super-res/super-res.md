@@ -3,7 +3,7 @@
 date = 2015-12-31T00:00:00
 
 # Project title.
-title = "Optothermal Actuator"
+title = "Far-field Super-resolution Optical Microscopic Imaging"
 # Project summary to display on homepage.
 summary = " # "
 
@@ -54,7 +54,7 @@ math = true
 +++
 ## Summary
 <p style="text-align: justify;">
-A new far-field super-resolution optical microscopic imaging method is proposed based on narrow-band filtered annular light-cone illumination with high numerical aperture. Only a part of transmitted light (N.A.-N.A.,  is the ratio of inner diameter to outer diameter of this annular light-cone) can participate in imaging through objective. According to the scalar diffraction theory, MATLAB simulations have been carried out when =0, 0.6, 0.9 (shown in figure above, =450nm, N.A.=1.25). Apparently, full width at half maxima (FWHM) of the intensity can significantly decrease with the increase in , as a result, the diffraction limit has been broken. Further experiments are under performing.
+A new far-field super-resolution optical microscopic imaging method is proposed based on narrow-band filtered annular light-cone illumination with high numerical aperture. Only a part of transmitted light ($\epsilon$N.A.-N.A., $\epsilon$ is the ratio of inner diameter to outer diameter of this annular light-cone) can participate in imaging through objective. According to the scalar diffraction theory, MATLAB simulations have been carried out when $\epsilon$=0, 0.6, 0.9 (shown in figure above, $\lambda$=450nm, N.A.=1.25). Apparently, full width at half maxima (FWHM) of the intensity can significantly decrease with the increase in $\epsilon$, as a result, the diffraction limit has been broken. Further experiments are under performing.
 </p>
 
 
