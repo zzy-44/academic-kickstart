@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2018-05-07T00:00:00
+date = 2020-04-02T00:00:00
 
 # Project title.
 title = "high-speed microscopic measurement system"
@@ -34,7 +34,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow (me)", url = "https://twitter.com/janani137"}, {icon_pack = "fab", icon="twitter", name="Follow R-Ladies East Lansing", url = "https://twitter.com/RLadiesELansing"}]
+url_custom = []
 
 # Does the project detail page use math formatting?
 math = true
