@@ -12,8 +12,8 @@ weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["rladies", "software-tools", "blogs", "compbio-bioinfo", "R"]
-categories = ["R"]
+tags = []
+categories = []
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -30,7 +30,7 @@ slides = "" # //bit.ly/rlel-github-meetup
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/rladies-eastlansing"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
