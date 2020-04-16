@@ -29,7 +29,7 @@ abstract = " "
 summary = "This paper presents microscopic research on properties of optothermal microactuators, the results show that the microactuators can be directly driven by laser beam and that lever ratio is the significant parameter to acquire larger deflections."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://doi.org/10.1002/jemt.23434"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -52,7 +52,7 @@ slides = "" # example-slides
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["optothermal-actuator"]
+tags = [""]
 categories = ["Research"]
 
 # Links (optional).
@@ -87,7 +87,6 @@ math = true
   preview_only = true
 
 # [header]
-# image = "Fig_1.png"
-[image]
+# image = "Fig_1.png" 
 +++
 This paper presents microscopic research on properties of optothermal microactuators, the results show that the microactuators can be directly driven by laser beam and that lever ratio is the significant parameter to acquire larger deflections.
