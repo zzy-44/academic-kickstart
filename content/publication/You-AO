@@ -88,6 +88,6 @@ math = true
 
 # [header]
 # image = "Fig_1.png"
-[image]
+
 +++
 This paper proposes and studies the characteristics of a laser-driven optothermal microactuator (OTMA) directly operated in water. A theoretical model of optothermal temperature rise and expansion is established, and simulations on a 1000 µm long OTMA are conducted, revealing that its arm is able to expand and contract in response to the laser pulses in a water environment. Microactuating experiments are further carried out using a microfabricated OTMA. The results demonstrate that the OTMA can be practically actuated in water by a 650 nm laser beam and that the OTMA’s deflection amplitude increases linearly with laser power. When irradiated by laser pulses with 9.9 mW power and 0.9–25.6 Hz frequencies, the OTMA achieves deflection amplitude ranging from 3.9 to 3.2 µm, respectively. The experimental results match well with theoretical model when taking the damping effect of water into account. This research may be conducive to developing particular micro-electromechanical systems or micro-optoelectromechanical devices such as underwater optothermal micromotors, micro-pumps, micro-robots, and other underwater microactuators.
