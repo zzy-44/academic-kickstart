@@ -63,9 +63,10 @@ math = true
   <img src="Fig_1.png" alt="" width="400px" height="400px"/>
   <figcaption>
 <h10>Procedure of the time axis fitting software</h10>
-  
++++
 <h8 style="text-align: justify;">
-    This time-axis analysis software (shown as Fig.3) which is based on Visual Studio and Microsoft Foundation Classes (MFC) can acquire the relationship between time and feature point’s displacement, thus amplitude and frequency of microactuators can be further derived accurately. Similar to this time-axis analysis software, spatial-axis analysis software which shows the moving trail of the feature point can be constructed as well.</h8>
+This time-axis analysis software (shown as Fig.3) which is based on Visual Studio and Microsoft Foundation Classes (MFC) can acquire the relationship between time and feature point’s displacement, thus amplitude and frequency of microactuators can be further derived accurately. Similar to this time-axis analysis software, spatial-axis analysis software which shows the moving trail of the feature point can be constructed as well.</h8>
+
   <img src="Fig_2.png" alt="" width="600px" height="600px"/>
   <figcaption>
 <h10>Interface of the time axis fitting software</h10>
