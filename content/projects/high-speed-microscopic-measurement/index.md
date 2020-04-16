@@ -41,7 +41,7 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-![image]
+[image]
   # Caption (optional)
   caption = ""
 
@@ -50,10 +50,10 @@ math = true
   focal_point = "Smart"
   
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 +++
-<img src="/interests/rladies_files/rladies.jpeg" alt="" width="600px" height="600px"/>
+<img src=""Fig_3.png"" alt="" width="600px" height="600px"/>
 
 
 <h8 style="text-align: justify;">
