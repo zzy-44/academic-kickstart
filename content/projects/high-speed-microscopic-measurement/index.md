@@ -4,6 +4,7 @@ date = 2020-04-02T00:00:00
 
 # Project title.
 title = "high-speed microscopic measurement system"
+font_size="12"
 
 # Project summary to display on homepage.
 summary = " "
