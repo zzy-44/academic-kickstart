@@ -40,8 +40,8 @@ featured = false
 #   E.g. `projects = ["optothermal-actuator"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["optothermal-actuator"]` references
- `content/projects/optothermal-actuator/index.md`.
+projects = []
+
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
