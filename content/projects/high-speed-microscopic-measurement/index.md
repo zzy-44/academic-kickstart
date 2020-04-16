@@ -53,7 +53,7 @@ math = true
   preview_only = true
 
 +++
-<img src=""Fig_3.png"" alt="" width="600px" height="600px"/>
+<img src="Fig_3.png" alt="" width="600px" height="600px"/>
 
 
 <h8 style="text-align: justify;">
