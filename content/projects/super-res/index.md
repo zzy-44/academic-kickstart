@@ -49,7 +49,7 @@ math = true
   focal_point = "Smart"
   
   # Show image only in page previews?
-  preview_only = false
+  preview_only = true
 
 +++
 ## Summary
