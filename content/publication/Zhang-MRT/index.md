@@ -56,7 +56,7 @@ tags = ["optothermal-actuator"]
 categories = ["Research"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/content/pdf/10.1007%2Fs10482-018-1053-5.pdf"
+url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/jemt.23434"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -68,7 +68,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "PubMed", url = "https://www.ncbi.nlm.nih.gov/pubmed/29488183"}, {name = "GitHub", url = "http://github.com/jananiravi/2018-psp-actino"}]
+links = []
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -88,5 +88,6 @@ math = true
 
 # [header]
 # image = "Fig_1.png"
-
+[image]
 +++
+This paper presents microscopic research on properties of optothermal microactuators, the results show that the microactuators can be directly driven by laser beam and that lever ratio is the significant parameter to acquire larger deflections.
