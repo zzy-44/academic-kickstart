@@ -61,7 +61,7 @@ math = true
     As is known to all, pixel is the smallest unit in the imaging system. However, sub-pixel fitting is an efficient way to break this limit, thus a high-precision testing system whose minimum resolution is 0.1m has been established. Procedure of the sub-pixel fitting based analysis software (time-axis) is shown as Fig.2. </h8>
 
   <img src="Fig_1.png" alt="" width="400px" height="400px"/>
-  <figcaption><h10>Procedure of the time axis fitting software.</h10>
+  <figcaption="Fig.2 Procedure of the time axis fitting software.">
   
 
 <h8 style="text-align: justify;">
