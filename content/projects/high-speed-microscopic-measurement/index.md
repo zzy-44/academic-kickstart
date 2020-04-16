@@ -58,12 +58,11 @@ math = true
 
 <img src="Fig_3.png" alt="" width="600px" height="600px"/>
 <h8 style="text-align: justify;">
-As is known to all, pixel is the smallest unit in the imaging system. However, sub-pixel fitting is an efficient way to break this limit, thus a high-precision testing system whose minimum resolution is 0.1m has been established. Procedure of the sub-pixel fitting based analysis software (time-axis) is shown as Fig.2. </h8>
+    As is known to all, pixel is the smallest unit in the imaging system. However, sub-pixel fitting is an efficient way to break this limit, thus a high-precision testing system whose minimum resolution is 0.1m has been established. Procedure of the sub-pixel fitting based analysis software (time-axis) is shown as Fig.2. </h8>
 
   <img src="Fig_1.png" alt="" width="400px" height="400px"/>
   <figcaption>
-<h10>Procedure of the time axis fitting software
-  </h10>
+<h10>Procedure of the time axis fitting software</h10>
   
 <h8 style="text-align: justify;">
     This time-axis analysis software (shown as Fig.3) which is based on Visual Studio and Microsoft Foundation Classes (MFC) can acquire the relationship between time and feature point’s displacement, thus amplitude and frequency of microactuators can be further derived accurately. Similar to this time-axis analysis software, spatial-axis analysis software which shows the moving trail of the feature point can be constructed as well.</h8>
