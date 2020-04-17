@@ -3,7 +3,7 @@ title = "WiFi‐controlled portable atomic force microscope"
 date = 2019-05-23T00:00:00
 
 
-slug = "anto" # still works?
+slug = "anto3" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Yingda Wang", "Qingyang You", "Ziyao Zhang", "Jiajun Chen", "Haijun Zhang*"]
