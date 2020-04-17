@@ -3,7 +3,7 @@ title = "Laser-Driven Optothermal Microactuator Operated in the Water"
 date = 2020-01-01T00:00:00
 
 
-slug = "anto" # still works?
+slug = "anto2" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Qingyang You", "Yingda Wang", "Ziyao Zhang", "Haijun Zhang*", "Toshiyuki Tsuchiya", "Osamu Tabata"]
