@@ -2,7 +2,7 @@
 title = "WiFi‐controlled portable atomic force microscope"
 date = 2019-05-23T00:00:00
 
-weight=3
+weight = 30
 
 slug = "anto" # still works?
 
