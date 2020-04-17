@@ -2,7 +2,7 @@
 title = "Laser-Driven Optothermal Microactuator Operated in the Water"
 date = 2020-01-18T00:00:00
 
-weight=6
+weight = 2
 
 slug = "anto" # still works?
 
