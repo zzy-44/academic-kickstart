@@ -86,7 +86,7 @@ math = true
   focal_point = "Center"
   
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 # [header]
 # image = "Fig_1.png" 
