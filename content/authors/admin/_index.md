@@ -55,7 +55,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-I am a postgraduate student of optical engineering (State Key Laboratory of Modern Optical Instrumentation, College of Optical Science, Zhejiang University) working on microactuators and microscope observation and measurement. I'm really taken by physics knowledge, especially optics and I got familiar with modern physics during the times I studied in physics college of Nankai university. What’s more, I have mastered lots of skills which are necessary in science research such as numerical simulation, experiments technical ability, c++ programming and so on.
+<p style="text-align: justify;">
+I am a postgraduate student of optical engineering (State Key Laboratory of Modern Optical Instrumentation, College of Optical Science, Zhejiang University) working on microactuators and microscope observation and measurement. I'm really taken by physics knowledge, especially optics and I got familiar with modern physics during the times I studied in physics college of Nankai university. What’s more, I have mastered lots of skills which are necessary in science research such as numerical simulation, experiments technical ability, c++ programming and so on.</p>
 
 
