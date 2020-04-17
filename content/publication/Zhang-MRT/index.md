@@ -1,7 +1,7 @@
 +++
 title = "Microscopic research on the properties of optothermal microactuators with different lever ratios"
 date = 2020-01-07T00:00:00
-
+weight=1
 slug = "anto" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -25,8 +25,8 @@ publication = "*Microscopy Research and Technique*, Wiley."
 publication_short = "*Anto*"
 
 # Abstract and optional shortened version.
-abstract = " "
-summary = "This paper presents microscopic research on properties of optothermal microactuators, the results show that the microactuators can be directly driven by laser beam and that lever ratio is the significant parameter to acquire larger deflections."
+abstract = "This paper presents microscopic research on properties of asymmetric optothermal microactuator (OTMA) with different lever ratios. A theoretical model is established on the basis of thermal flux theorem to describe the temperature rises induced by laser irradiation and thermal expansion of OTMAs’ expansion arms. Temperature rises of three asymmetric OTMAs with total lengths/lever ratios of 540 $\mu$m/7.2, 1080 $\mu$m/7.2, 1080 $\mu$/14.4 are simulated under irradiation of 2.8 mW laser beam, revealing that similar temperature rises will distribute on three expansion arms, with maximum temperature rises of 82.73°C, 87.67°C and 88.03°C respectively. Due to these temperature rises, the arms expand longitudinally and thus the OTMAs are capable of deflecting laterally with enlarged deflection amplitudes. To obtain optimized deflecting properties, three OTMAs with aforementioned lever ratios are further microfabricated and experimented using an optical microscopic observing and measuring system combined with a charge-coupled device (CCD). The experimental results show that these OTMAs can be directly actuated by laser beam and acquire maximum deflections of 6.8 $\mu$m, 7.2 $\mu$m and 11.4 $\mu$m when only 2.8 mW laser power is employed. In addition, it is demonstrated that, although doubling the lever ratio of OTMA does not correspondingly generate twofold deflection, the deflection amplitude can significantly increase as the lever ratio getting larger. With their characteristic elegances, the OTMAs are expected to be practically applied in MEMS/MOEMS."
+summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1002/jemt.23434"
@@ -56,7 +56,7 @@ tags = [""]
 categories = ["Research"]
 
 # Links (optional).
-url_pdf = "https://onlinelibrary.wiley.com/doi/abs/10.1002/jemt.23434"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -84,9 +84,9 @@ math = true
   focal_point = "Center"
   
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 # [header]
 # image = "Fig_1.png" 
 +++
-This paper presents microscopic research on properties of optothermal microactuators, the results show that the microactuators can be directly driven by laser beam and that lever ratio is the significant parameter to acquire larger deflections.
+
