@@ -2,7 +2,7 @@
 title = "Microscopic research on the properties of optothermal microactuators with different lever ratios"
 date = 2020-01-07T00:00:00
 
-slug = "anto" # still works?
+slug = "anto1" # still works?
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ziyao Zhang", "Yingda Wang", "Qingyang You", "Haijun Zhang*"]
