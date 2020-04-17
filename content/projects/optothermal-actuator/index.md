@@ -59,5 +59,5 @@ This work which belongs to National High-tech R&D Program (863 Program) presents
 </p>
 
 ## Related publications
-* [Microscopic research on the properties of optothermal microactuators with different lever ratios]="//ziyaozhang.netlify.app/publication/anto/"
-* [Microscopic research on the properties of optothermal microactuators with different lever ratios](/publication/2020/AO)
+* Microscopic research on the properties of optothermal microactuators with different lever ratios
+* Laser-Driven Optothermal Microactuator Operated in the Water
