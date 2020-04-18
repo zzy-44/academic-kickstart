@@ -57,7 +57,8 @@ user_groups:
 ---
 <p style="text-align: justify;">
 An ambitious postgraduate student of optical engineering (State Key Laboratory of Modern Optical Instrumentation, College of Optical Science, Zhejiang University) working on microactuators and microscope observation/measurement. Learning as a postgraduate has roused my particular interest in micro/nano-technology and optical devices, on which several projects has been taken over and some relative articles have been published. Besides, necessary skills such as numerical simulation, experiments technical ability, c++ programming, etc. have been mastered.</p>
-  
+
+<p style="text-align: justify;">
 I would love to advance my understanding of the field further, through PhD study with an expert at a remarkable institution.
 </p>
 
