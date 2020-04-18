@@ -28,10 +28,10 @@ project:
 education:
   courses:
   - course: M.S. in Optical Engineering (present)
-    institution: State Key Laboratory of Modern Optical Instrumentation,College of Optical Science and Engineering, Zhejiang University
+    institution: State Key Laboratory of Modern Optical Instrumentation,College of Optical Science and Engineering, Zhejiang University (Project 985)
     year:
   - course: B.S. in Opto-Electronics Information Science and Engineering
-    institution: School of Physics, Nankai University
+    institution: School of Physics, Nankai University (Project 985)
     year: 2018
 
 # Social/Academic Networking
