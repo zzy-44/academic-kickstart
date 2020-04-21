@@ -56,7 +56,7 @@ math = true
 +++
 <h8 style="text-align: justify;">
   
-A system using high-speed microscopic observation and dynamic measurement technology has been established in this project (shown as Fig.1), microactuators’ motion states and dynamic characteristics can be tested based on this system. High-speed CMOS/CCD (240fps) combined with optical microscope is used in this system to capture the video of actuator’s movement and a sub-pixel motion analysis software is utilized to acquare the characteristics of microactuators such as deflection, amplitude, displacement and so on. This non-contact optical testing method has the advantages of non-destruction, non-contact, high-speed and high-precision.
+A system based on high-speed microscopic observation and dynamic measurement technology has been established in this project (shown as Fig.1), microactuators’ motion states and dynamic characteristics can be tested using this system. High-speed CMOS/CCD (240fps) combined with optical microscope is used in this system to capture the video of actuator’s movement and a sub-pixel motion analysis software is utilized to acquare the characteristics of microactuators such as deflection, amplitude, displacement and so on. This non-contact optical testing method has the advantages of non-destruction, non-contact, high-speed and high-precision.
 
 <figure>
  <img src="Fig_3.png" alt="a" width="600px" height="600px"/>
