@@ -3,7 +3,7 @@
 
 
 # Project title.
-title = "high-speed microscopic measurement system"
+title = "High-speed Microscopic Measurement System"
 font_size="12"
 
 # Project summary to display on homepage.
