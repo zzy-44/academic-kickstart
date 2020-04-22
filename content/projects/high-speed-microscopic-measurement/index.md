@@ -70,7 +70,7 @@ As is known to all, pixel is the smallest unit of CMOS/CCD imaging. However, sub
 <figure>
  <img src="Fig_1.png" alt="a" width="400px" height="400px"/>
   <figcaption>
-      <h10>Figure.2 Procedure of the time axis fitting software</h10>
+      <h10>Figure.2 Procedure of the time-axis fitting software</h10>
   </figcaption>
 </figure>
   
@@ -79,7 +79,7 @@ This time-axis analysis software (shown as Fig.3) which is based on Visual Studi
 <figure>
  <img src="Fig_2.png" alt="" width="600px" height="600px"/>
   <figcaption>
-      <h10>Figure.3 Interface of the time axis fitting software</h10>
+      <h10>Figure.3 Interface of the time-axis fitting software</h10>
   </figcaption>
 </figure>
 
