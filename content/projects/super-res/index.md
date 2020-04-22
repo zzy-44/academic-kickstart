@@ -3,7 +3,7 @@
 date = 2015-12-31T00:00:00
 
 # Project title.
-title = "Annular Light-cone Illumination Super-resolution Optical Imaging"
+title = "Annular Light-cone Illumination Imaging"
 # Project summary to display on homepage.
 summary = " "
 
