@@ -5,7 +5,7 @@ date = 2015-12-31T00:00:00
 # Project title.
 title = "Optothermal Microactuator"
 # Project summary to display on homepage.
-summary = " # "
+summary = ""
 
  weight = 1
 
