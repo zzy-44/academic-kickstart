@@ -65,7 +65,7 @@ A high-speed microscopic measuring method and system has been established in thi
   </figcaption>
 </figure>
 
-As is known to all, pixel is the smallest unit of CMOS/CCD imaging traditionally. However, using sub-pixel fitting is an efficient way to break this limit. Based on this, a high-precision testing system whose minimum resolution is 0.1m has been established. Figure 2 shows the procedures of using the sub-pixel fitting based analysis software (time-axis). 
+As is known to all, pixel is the smallest unit of CMOS/CCD imaging traditionally. However, using sub-pixel fitting is an efficient way to break this limit. Based on this, a high-precision testing system whose minimum resolution is 0.1µm has been established. Figure 2 shows the procedures of using the sub-pixel fitting based analysis software (time-axis). 
 
 <figure>
  <img src="Fig_1.png" alt="a" width="400px" height="400px"/>
