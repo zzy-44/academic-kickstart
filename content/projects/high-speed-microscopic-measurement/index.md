@@ -61,7 +61,7 @@ A high-speed microscopic measuring method and system has been established in thi
 <figure>
  <img src="Fig_3.png" alt="a" width="600px" height="600px"/>
   <figcaption>
-      <h10>Figure.1 Diagram of high-speed microscopic measurement system</h10>
+      <h10>Figure.1 Diagram of the high-speed microscopic measuring system</h10>
   </figcaption>
 </figure>
 
