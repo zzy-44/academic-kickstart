@@ -56,7 +56,7 @@ math = true
 +++
 <h8 style="text-align: justify;">
   
-A system based on high-speed microscopic observation and dynamic measurement technology has been established in this project (shown as Fig.1), microactuators’ motion states and dynamic characteristics can be tested using this system. High-speed CMOS/CCD (240fps) combined with optical microscope is used in this system to capture the video of actuator’s movement and a sub-pixel motion analysis software is utilized to acquare the characteristics of microactuators such as deflection, amplitude, displacement and so on. This non-contact optical testing method has the advantages of non-destruction, non-contact, high-speed and high-precision.
+A high-speed microscopic measuring method and system has been established in this project to test motion states and dynamic characteristics of microactuators. Movement of actuators can be captured by high-speed CMOS/CCD (240 fps) combined with optical microscope when a sub-pixel motion analysis software is utilized to analysis the video. In this way, dynamic characteristics of microactuators such as deflection, amplitude, displacement, moving trail, etc. can be acquired. This optical testing method features non-destruction, non-contact, high-speed, and high-precision. 
 
 <figure>
  <img src="Fig_3.png" alt="a" width="600px" height="600px"/>
@@ -65,16 +65,17 @@ A system based on high-speed microscopic observation and dynamic measurement tec
   </figcaption>
 </figure>
 
-As is known to all, pixel is the smallest unit of CMOS/CCD imaging. However, sub-pixel fitting is an efficient way to break this limit, thus a high-precision testing system whose minimum resolution is 0.1µm has been established. Procedure of the sub-pixel fitting based analysis software (time-axis) is shown as Fig.2. 
-  
+As is known to all, pixel is the smallest unit of CMOS/CCD imaging traditionally. However, using sub-pixel fitting is an efficient way to break this limit. Based on this, a high-precision testing system whose minimum resolution is 0.1m has been established. Figure 2 shows the procedures of using the sub-pixel fitting based analysis software (time-axis). 
+
 <figure>
  <img src="Fig_1.png" alt="a" width="400px" height="400px"/>
   <figcaption>
       <h10>Figure.2 Procedure of the time-axis fitting software</h10>
   </figcaption>
 </figure>
-  
-This time-axis analysis software (shown as Fig.3) which is based on Visual Studio and Microsoft Foundation Classes (MFC) can acquire the relationship between time and feature point’s displacement, thus amplitude and frequency of microactuators can be further derived accurately. Similar to this time-axis analysis software, spatial-axis analysis software which shows the moving trail of the feature point can be constructed as well.</h8>
+
+The time-axis analysis software (as shown in Figure 3) based on sub-pixel fitting and Microsoft Foundation Classes (MFC) can output the relationship between time and feature point’s displacement, thus the amplitude and frequency of microactuators can be derived accurately. Similar to this time-axis analysis software, spatial-axis analysis software which shows the moving trail of micro-actuators’ feature point has been constructed as well.  
+Due to its advantages, the measuring method and system established in this project is expected to improve the quality of microactuators’ testing and be widely used in research of MEMS.</h8>
 
 <figure>
  <img src="Fig_2.png" alt="" width="600px" height="600px"/>
