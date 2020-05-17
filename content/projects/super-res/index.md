@@ -55,7 +55,7 @@ math = true
 ## Summary
 <img src="Fig_1.png" alt="" width="600px" height="600px"/>
 <p style="text-align: justify;">
-  A new far-field super-resolution method for optical microscopic imaging is proposed based on narrow-band filtered annular light-cone illumination with high numerical aperture. In this method, only a part of transmitted light ($\epsilon$N.A.-N.A., $\epsilon$ is the ratio of inner diameter to outer diameter of this annular light-cone’ cross section) can participate in imaging through objectives. MATLAB simulations have been carried out when $\epsilon$ is 0, 0.6, and 0.9 respectively (as shown in the above figure, $\epsilon$ = 450 nm, N.A. = 1.25) based on the scalar diffraction theory. According to the results, the intensity with full width at half maxima (FWHM) significantly decreases with the increase in $\epsilon$. As a result, the diffraction limit has been broken. Further experiments are under performing.
+  A new far-field super-resolution method for optical microscopic imaging is proposed based on narrow-band filtered annular light-cone illumination with high numerical aperture. In this method, only a part of transmitted light ($\epsilon$N.A.-N.A., $\epsilon$ is the ratio of inner diameter to outer diameter of this annular light-cone’ cross section) can participate in imaging through objectives. MATLAB simulations have been carried out when $\epsilon$ is 0, 0.6, and 0.9 respectively (as shown in the above figure, $\epsilon$ = 450 nm, N.A. = 1.25) based on the scalar diffraction theory. According to the results, the intensity with full width at half maxima (FWHM) significantly decreases with the increase in ε$\epsilon$. As a result, the diffraction limit has been broken. Further experiments are under performing.
 </p>
 
 
